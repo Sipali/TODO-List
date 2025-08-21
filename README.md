@@ -4,4 +4,6 @@ Todo List Application is a beginner-friendly project built with HTML, CSS, and J
 
 ## Preview Output Images
 
+## Preview Output ScreenShot
+
 ![Todo List Screenshot](images/image.png)
